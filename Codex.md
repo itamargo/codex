@@ -31,13 +31,10 @@
 - [Codex vitae](#codex-vitae)
 - [Quality time](#quality-time)
 - [Systems thinking](#systems-thinking)
-- [Soloverse](#soloverse)
-- [Hume’s fork](#humes-fork)
-- [Optionality](#optionality)
-- [Primes](#primes)
-- [Quantum realism](#quantum-realism)
+- [Organizations](#organizations)
 
 #### Personal canon
+- [quotes](#quotes)
 - [articles](#articles)
 - [books](#books)
 - [my writing](#my-writing)
@@ -68,15 +65,6 @@ Personal mental and physical abilities, constraints, and biases.
 
 - Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
 - Free will is mostly an illusion, but a nice one to keep because it is highly practical.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (again, it's practical).
-- Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
-- The best way for our brains to model predictions is to create stories.
-- Consciousness receives a stream of observer moments and turns them into stories. 
-- Each observer moment is a static model of the universe captured in freeze frame, with a frozen model of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
-- Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
-- Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
-- We can change our behavior and habits but it requires a ridiculous amount of energy.
-- Most of the time (if not all of the time) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
 - The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
 - We are the sum of our biases. 
@@ -87,8 +75,7 @@ Personal mental and physical abilities, constraints, and biases.
 My take on the spiritual and supernatural.
 
 - We don't have a purpose given to us, but it's okay if we make one up.
-- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
-- Frequently remembering we will die increases the quality of our life.
+- My self-declared purpose is to shape societies and communities to enable them to elevate their game by giving them the tools and support they need.
 - Life is already lost. The only honest way to approach it is from a perspective of gratitude.
 - Souls don't exist as separate from the physical body.
 - The gods of organized religion don't exist.
@@ -110,7 +97,6 @@ Science, politics, and the universe.
 - Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
 - Aliens will probably discover our own robots before they discover us.
 - The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
 - As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
 - Privacy is just a side effect of people not being truly connected.
@@ -129,18 +115,13 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should strive to know what I really believe, and to make sure my beliefs work well together.
 - I should be my word.
 - I should have good intentions.
-- I should admit to being the maker of my own meaning.
 - I should not feel sorry for myself and avoid competitive suffering.
 - I should have a vision that I'm striving for.
-- I should rally others with my vision.
 - I should be the change I want to see.
-- I should stake my reputation on my better self.
 - I should be comfortable with the consequences of being who I am.
-- I should make my own advice and take it.
 - I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
 - I should study my mistakes.
 - I should retry things I don’t like every once in a while.
-- I should go slow, work hard, and avoid shortcuts.
 - I should cultivate quality time with myself, with others, and with my interests.
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
@@ -159,8 +140,7 @@ How I believe society should be structured.
 - Free college education should be available to everyone who wants it.
 
 ### Type 4: Predictions
-Not Reall my thing
-
+...are not really my thing. You are welcomed to have yours 
 
 ## Glossary
  
@@ -171,21 +151,29 @@ This document was started in July 2016, inspired by Buster Benson's experiment [
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
 
 ### Quality time
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
-
+ There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
 
 ### Systems thinking
 
 
-
-
-
+###  Organizations
+* Organizations are complex systems with emergent behavior
+* Hierarchy is a way to reduce the transaction costs of collaboration. Reduce the transaction cost and you'll need it less. 
+* We often times advocate for democracy, when what we really seek is a shift from tyranny/popularity contest to benevolence/meritocracy
+* Humans are flawed and fallible. It is what sets us appart from machines. We should design our orgs for this feature
+* Human behavior should be thought of as probabilistic rather than deterministic
+* Heisenberg's Uncertainty Principle applies to measuring performance & growth/learning in a similar way that it applies to measuring position & potential
 
 ## Personal canon
 
+### Quotes
+* "The enemy of science is not religion. Religion comes in endless shapes and forms... The true enemy is the substitution of thought, reflection, and curiosity with dogma." -Franz de Waal
+* “All Truth passes through three stages: first it is ridiculed, second it is violently opposed, third it is being accepted as self-evident” - Arthur Schopenhauer
+* "From the Son of Heaven down to the mass of the people, all must consider the cultivation of the person the root of everything besides." - Confucius 
+* “The one thing we can learn from history, is that we never learn from history” - Hegel
+
 ### Articles 
 Writing I've loved and come back to a bunch of times.
-
 
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 
@@ -193,10 +181,20 @@ Writing I've loved and come back to a bunch of times.
 Each of these books has changed how I see the world.
 
 * [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
+* [Reinventing Organizations](http://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/) - Frederick Laloux
+* [Recreating the Corporation](http://www.amazon.com/Re-Creating-Corporation-Design-Organizations-Century-ebook/dp/B004RL7538/) - Russell Ackoff
+* [Productive Workplaces](https://www.amazon.com/Productive-Workplaces-Dignity-Meaning-Community/dp/0470900172/) - Marvin Weisbord
+* [The Advantage](http://www.amazon.com/Advantage-Organizational-Everything-Business-Lencioni-ebook/dp/B006ORWT3Y/) - Patrick Lencioni
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
 
 ### My writing
 Stuff that I've written that means something to me.
+I collect my writings [here](http://www.orghacking.com). While often times why are expanded takes on someone else's work, sometimes I contribute original pieces as well: 
+
+* [The Vice President of Business and People Operations](https://orghacking.com/2015/06/22/the-vice-president-of-business-and-people-operations/)
+* [PeopleOps - A Primer - Part 1: First Principles](https://orghacking.com/2016/07/18/peopleops-a-primer-part-1-first-principles/) 
+* [Make Enterprise Tools Great](https://orghacking.com/2016/06/06/make-enterprise-tools-great-again/) 
+* [Network Effects 101](https://orghacking.com/2016/05/16/network-effects-101/)
 
 ## Changelog
 [History of changes to this document](https://github.com/itamargo/public/commits/master/Codex.md) 
