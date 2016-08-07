@@ -175,6 +175,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 ### Articles 
 Writing I've loved and come back to a bunch of times.
 
+* [Good Communication that Blocks Learning](https://hbr.org/1994/07/good-communication-that-blocks-learning) - Chris Argyris
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 
 ### Books 
