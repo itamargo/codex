@@ -104,6 +104,7 @@ Science, politics, and the universe.
 - Most questions have no answer (but asking them anyway is often entertaining).
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Vaccinations are good for babies and society.
+- As inequality increases, affinity with other-states citizens of similar socio-economic status exceeds the affinity with same-state citizens of different socio-economic status, putting tremendous pressure on the concept of a nation state
 
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
@@ -163,6 +164,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 * Humans are flawed and fallible. It is what sets us appart from machines. We should design our orgs for this feature
 * Human behavior should be thought of as probabilistic rather than deterministic
 * Heisenberg's Uncertainty Principle applies to measuring performance & growth/learning in a similar way that it applies to measuring position & potential
+* At a ceratin scale, variability inside the org surpases the variability across orgs (simplistic example: Facebook's and Google's best developers have more in common between them than they have in common with the worst developer inside their own respective org) 
 
 ## Personal canon
 
