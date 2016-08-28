@@ -179,6 +179,7 @@ Writing I've loved and come back to a bunch of times.
 
 * [Good Communication that Blocks Learning](https://hbr.org/1994/07/good-communication-that-blocks-learning) - Chris Argyris
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
+* [20 rules for a Knight](https://www.farnamstreetblog.com/2016/08/20-rules-knight-timeless-guide-1483/)
 
 ### Books 
 Each of these books has changed how I see the world.
