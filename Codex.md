@@ -107,7 +107,7 @@ Science, politics, and the universe.
 - As inequality increases, affinity with other-states citizens of similar socio-economic status exceeds the affinity with same-state citizens of different socio-economic status, putting tremendous pressure on the concept of a nation state
 
 ### Type 3: Opinions
-Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
+Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, 3B is about how others may want to interact with me as a result, and 3C is about how I believe society should be structured.
 
 #### 3A: Opinions: Shoulds
 How I believe I should approach life. These are all opt-in and apply only to myself.
@@ -128,7 +128,15 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should take responsibility for things I find important, even if I can’t fully control them.
 - I should view my time as my scarcest resource. 
 
-#### 3B: Opinions: Society
+#### 3B: Opinions: Interacting with me
+How I believe you should best interact with me
+
+- Here is my [Insights Personality profile](https://drive.google.com/file/d/0B0BTzli_QMrAMWdtZElmc182dE0/view?usp=sharing). While I believe I'm constantly growing and changing, pages 11-12 in particular still ring very true. 
+- I view my time as my scarcest resource. Disrespecting it means disrespecting me. 
+- Trust = Motive (benevolence) + Competence (ability) + Reliability (integrity).
+- To that latter point, always [start with why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) to make your intentions clear.
+
+#### 3C: Opinions: Society
 How I believe society should be structured.
 
 - Gay marriage should be legal everywhere (and now IS in the United States).
