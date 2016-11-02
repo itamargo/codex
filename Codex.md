@@ -126,6 +126,7 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should cultivate quality time with myself, with others, and with my interests.
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
+- I should view my time as my scarcest resource. 
 
 #### 3B: Opinions: Society
 How I believe society should be structured.
@@ -134,7 +135,6 @@ How I believe society should be structured.
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
 - Health care should be available and affordable to everyone who needs it.
-- The death penalty should be used in extreme and certain cases to protect the public.
 - Prisons should be about protecting the public, not about punishment.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing available to everyone.
@@ -192,13 +192,17 @@ Each of these books has changed how I see the world.
 * [Productive Workplaces](https://www.amazon.com/Productive-Workplaces-Dignity-Meaning-Community/dp/0470900172/) - Marvin Weisbord
 * [The Advantage](http://www.amazon.com/Advantage-Organizational-Everything-Business-Lencioni-ebook/dp/B006ORWT3Y/) - Patrick Lencioni
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
+* [Mastering Leadership](https://www.amazon.com/Mastering-Leadership-Breakthrough-Performance-Extraordinary-ebook/dp/B015EN6NXK/) - Andreson & Adams
 
 ### My writing
 Stuff that I've written that means something to me.
-I collect my writings [here](http://www.orghacking.com). While often times why are expanded takes on someone else's work, sometimes I contribute original pieces as well: 
+I collect my writings [here](http://www.medium.com/org-hacking). While often times why are expanded takes on someone else's work, sometimes I contribute original pieces as well: 
 
 * [The Vice President of Business and People Operations](https://orghacking.com/2015/06/22/the-vice-president-of-business-and-people-operations/)
-* [PeopleOps - A Primer - Part 1: First Principles](https://orghacking.com/2016/07/18/peopleops-a-primer-part-1-first-principles/) 
+* [PeopleOps - A Primer - Part 1: First Principles](https://orghacking.com/2016/07/18/peopleops-a-primer-part-1-first-principles/)
+* [PeopleOps - A Primer - Part 2: Core Principles](https://medium.com/org-hacking/peopleops-a-primer-part-2-core-principles-6b1d2e44ca2d#.spxp818jv)
+* [PeopleOps - A Primer - Part 3: Fiar Monetary Compensation](https://medium.com/org-hacking/peopleops-a-primer-part-3-fair-monetary-compensation-c6b627672afe#.i1ctw9d16)
+* [Just Don't Call it Leadership](https://medium.com/org-hacking/just-dont-call-it-leadership-142a929b476f#.9hhxpm8yv)
 * [Make Enterprise Tools Great](https://orghacking.com/2016/06/06/make-enterprise-tools-great-again/) 
 * [Network Effects 101](https://orghacking.com/2016/05/16/network-effects-101/)
 
