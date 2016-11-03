@@ -168,7 +168,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 ###  Organizations
 * Organizations are complex systems with emergent behavior
 * Hierarchy is a way to reduce the transaction costs of collaboration. Reduce the transaction cost and you'll need it less. 
-* "In the presence of substantially lower transactions costs and competition from nimble, flash organizations and non-market innovation, building communities of meaning around economic collaboration is the primary form of strategic advantage firms have over dynamic, fluid networks of collaborators."
+* "In the presence of substantially lower transactions costs and competition from nimble, flash organizations and non-market innovation, building communities of meaning around economic collaboration is the primary form of strategic advantage firms have over dynamic, fluid networks of collaborators." (Benkler, 2016)
 * We often times advocate for democracy, when what we really seek is a shift from tyranny/popularity contest to benevolence/meritocracy
 * Humans are flawed and fallible. It is what sets us appart from machines. We should design our orgs for this feature
 * Human behavior should be thought of as probabilistic rather than deterministic
