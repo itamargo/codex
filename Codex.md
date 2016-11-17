@@ -175,6 +175,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 * Heisenberg's Uncertainty Principle applies to measuring performance & growth/learning in a similar way that it applies to measuring position & potential
 * At a ceratin scale, variability inside the org surpases the variability across orgs (simplistic example: Facebook's and Google's best developers have more in common between them than they have in common with the worst developer inside their own respective org) 
 * Leadership is a role, not a rank; Management is a career change, not a promotion.
+* Management = the structures, processes and techniques used to compound human effort [Hamel]
 
 ## Personal canon
 
