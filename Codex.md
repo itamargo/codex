@@ -55,7 +55,8 @@ Beliefs about beliefs.
 - Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
 - I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs, i.e. this one), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
-- Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
+- Making and maintaining this document is useful and fun. And increasingly rewarding over time
+- Separating [metrit beliefs from crony beliefs](http://www.meltingasphalt.com/crony-beliefs/) is an invaluable exercise when evaluating one's beliefs
 
 ### Type 2: Perceptions
 How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
