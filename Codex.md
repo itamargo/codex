@@ -177,6 +177,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 * At a ceratin scale, variability inside the org surpases the variability across orgs (simplistic example: Facebook's and Google's best developers have more in common between them than they have in common with the worst developer inside their own respective org) 
 * Leadership is a role, not a rank; Management is a career change, not a promotion.
 * Management = the structures, processes and techniques used to compound human effort [Hamel]
+* "In the presence of substantially lower transactions costs and competition from nimble, flash organizations and non-market innovation, building communities of meaning around economic collaboration is the primary form of strategic advantage firms have over dynamic, fluid networks of collaborators" [Benkler]
 
 ## Personal canon
 
