@@ -22,7 +22,7 @@
 
 - [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
 - [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
-- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
+- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others may approach life](#type-3-opinions)
 - [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
 
 #### Glossary
@@ -110,24 +110,24 @@ Science, politics, and the universe.
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, 3B is about how others may want to interact with me as a result, and 3C is about how I believe society should be structured.
 
-#### 3A: Opinions: Shoulds
-How I believe I should approach life. These are all opt-in and apply only to myself.
+#### 3A: Opinions: Commitments
+How I believe I am committed to approaching life. These are all opt-in and apply only to myself.
 
-- I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
-- I should strive to know what I really believe, and to make sure my beliefs work well together.
-- I should be my word.
-- I should have good intentions.
-- I should not feel sorry for myself and avoid competitive suffering.
-- I should have a vision that I'm striving for.
-- I should be the change I want to see.
-- I should be comfortable with the consequences of being who I am.
-- I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-- I should study my mistakes.
-- I should retry things I don’t like every once in a while.
-- I should cultivate quality time with myself, with others, and with my interests.
-- I should face things that make me uncomfortable.
-- I should take responsibility for things I find important, even if I can’t fully control them.
-- I should view my time as my scarcest resource. 
+- I am committed to regularly verifying that I want to continue opting-in to everything in this document on the first of every month. 
+- I am committed to striving to know what I really believe, and to make sure my beliefs work well together.
+- I am committed to be my word.
+- I am committed to have good intentions.
+- I am committed to not feel sorry for myself and avoid competitive suffering.
+- I am committed to have a vision that I'm striving for.
+- I am committed to be the change I want to see.
+- I am committed to be comfortable with the consequences of being who I am.
+- I am committed to manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+- I am committed to study my mistakes.
+- I am committed to retry things I don’t like every once in a while.
+- I am committed to cultivate quality time with myself, with others, and with my interests.
+- I am committed to face things that make me uncomfortable.
+- I am committed to take responsibility for things I find important, even if I can’t fully control them.
+- I am committed to view my time as my scarcest resource. 
 
 #### 3B: Opinions: Interacting with me
 How I believe you should best interact with me
