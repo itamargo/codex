@@ -139,7 +139,7 @@ How I believe you should best interact with me
 
 #### 3C: Opinions: Society
 How I believe society should be structured.
-
+- The success of a society can be measured by its ability to deliver on its pupose: delivering social goods that allow people to enjoy genuinely prosperous lives. 
 - Gay marriage should be legal everywhere (and now IS in the United States).
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
