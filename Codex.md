@@ -115,7 +115,7 @@ How I believe I am committed to approaching life. These are all opt-in and apply
 
 - I am committed to regularly verifying that I want to continue opting-in to everything in this document on the first of every month. 
 - I am committed to striving to know what I really believe, and to make sure my beliefs work well together.
-- I am committed to be my word.
+- I am committed to honoring my word: have the full intent to keep it, let people know when I can't, and help clean up the mess
 - I am committed to have good intentions.
 - I am committed to not feel sorry for myself and avoid competitive suffering.
 - I am committed to have a vision that I'm striving for.
